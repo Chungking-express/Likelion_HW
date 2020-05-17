@@ -19,6 +19,7 @@ import villagemarket.views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', villagemarket.views.village, name='village'),
 ]
 
-path('', villagemarket.views.village, name='village')
+

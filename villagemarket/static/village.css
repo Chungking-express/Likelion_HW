@@ -131,7 +131,7 @@
 }
 #cafe3{
     border-radius: 20%;
-    background-image: url('static/images/루프앤독/루프앤독.jpg');
+    background-image: url('images/루프앤독/루프앤독.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 250px;
@@ -140,7 +140,7 @@
 }
 #cafe2{
     border-radius: 20%;
-    background-image: url('static/images/프로스콘스/프로스콘스.jpg');
+    background-image: url('images/프로스콘스/프로스콘스.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 250px;
@@ -148,7 +148,7 @@
 }
 #cafe1{
     border-radius: 20%;
-    background-image: url('static/images/크레바스/크레바스.jpg');
+    background-image: url('images/크레바스/크레바스.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 250px;
@@ -278,7 +278,7 @@ img {vertical-align: middle;}
     background-color:rgb(194, 199, 194) ;
 }
 #cafe1button{
-    background-image: url("static/images/인스타그램.png");
+    background-image: url("images/인스타그램.png");
     background-size: cover;
     border-radius: 10px;
     width: 40px;
@@ -365,7 +365,7 @@ img {vertical-align: middle;}
     background-color:rgb(194, 199, 194) ;
 }
 #cafe2button{
-    background-image: url("static/images/인스타그램.png");
+    background-image: url("images/인스타그램.png");
     background-size: cover;
     border-radius: 10px;
     width: 40px;
@@ -532,7 +532,7 @@ img {vertical-align: middle;}
     background-color:rgb(194, 199, 194) ;
 }
 #cafe3button{
-    background-image: url("static/images/인스타그램.png");
+    background-image: url("images/인스타그램.png");
     background-size: cover;
     border-radius: 10px;
     width: 40px;
